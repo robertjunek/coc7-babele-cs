@@ -8,7 +8,7 @@ Hooks.once('init', () => {
 			dir: 'compendium'
 		});
 		
-		document.getElementById("logo").src="/modules/coc7-babele-sv/img/fvtt-anvil-cs.png";
+		document.getElementById("logo").src="/modules/coc7-babele-cs/img/fvtt-anvil-cs.png";
 		
 	}
 });
