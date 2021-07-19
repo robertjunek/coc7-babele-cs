@@ -1,225 +1,225 @@
 {
-	"label": "Färdigheter",
+	"label": "Dovednosti",
 	"entries": [
 		{
 			"id": "Accounting",
-			"name": "Bokföring",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Účetnictví",
+			"description": ""
 		},
 		{
 			"id": "Acting",
-			"name": "Skådespelare",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Herectví",
+			"description": ""
 		},
 		{
 			"id": "Animal Handling",
-			"name": "Dressyr",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Výcvik zvířat",
+			"description": ""
 		},
 		{
 			"id": "Anthropology",
-			"name": "Antropologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Antropologie",
+			"description": ""
 		},
 		{
 			"id": "Appraise",
-			"name": "Värdering",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Oceňování",
+			"description": ""
 		},
 		{
 			"id": "Archaeology",
-			"name": "Arkeologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Archeologie",
+			"description": ""
 		},
 		{
 			"id": "Art/Craft (Any)",
-			"name": "Konst/hantverk (Valfri)",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Umění/řemeslo (jakékoliv)",
+			"description": ""
 		},
 		{
 			"id": "Artillery",
-			"name": "Artilleri",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Dělostřelectví",
+			"description": ""
 		},
 		{
 			"id": "Astronomy",
-			"name": "Astronomi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Astronomie",
+			"description": ""
 		},
 		{
 			"id": "Axe",
 			"name": "Yxa",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Biology",
 			"name": "Biologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Botany",
 			"name": "Botanik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Bow",
 			"name": "Pilbåge",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Brawl",
-			"name": "Handgemäng",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Rvačka",
+			"description": ""
 		},
 		{
 			"id": "Chainsaw",
-			"name": "Motorsåg",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Motorová pila",
+			"description": ""
 		},
 		{
 			"id": "Charm",
-			"name": "Charma",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Šarm",
+			"description": ""
 		},
 		{
 			"id": "Chemistry",
-			"name": "Kemi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"name": "Chemie",
+			"description": ""
 		},
 		{
 			"id": "Climb",
 			"name": "Klättra",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Computer Use",
 			"name": "Datoranvändning",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Credit Rating",
 			"name": "Levnadsstandard",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Cryptography",
 			"name": "Kryptografi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Cthulhu Mythos",
 			"name": "Cthulhumyten",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Demolitions",
 			"name": "Sprängteknik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Disguise",
 			"name": "Förklädnad",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Diving",
 			"name": "Dyka",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Dodge",
 			"name": "Ducka",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Drive Auto",
 			"name": "Chaufför (Bil)",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Electrical Repair",
 			"name": "Elektriker",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Electronics",
 			"name": "Elektronik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Fast Talk",
 			"name": "Bluffa",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Fine Art",
 			"name": "Måla",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "First Aid",
 			"name": "Första hjälpen",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Flail",
 			"name": "Slaga",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Flamethrower",
 			"name": "Eldkastare",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Forensics",
 			"name": "Kriminalteknik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Forgery",
 			"name": "Förfalskning",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Garrote",
 			"name": "Garott",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Geology",
 			"name": "Geologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Handgun",
 			"name": "Pistol",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Heavy Weapons",
 			"name": "Tyngre handeldvapen",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "History",
 			"name": "Historia",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Hypnosis",
 			"name": "Hypnos",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Intimidate",
 			"name": "Hota",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Jump",
 			"name": "Hoppa",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Language (Any)",
@@ -239,117 +239,117 @@
 		{
 			"id": "Law",
 			"name": "Juridik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Library Use",
 			"name": "Bibliotekskunskap",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Listen",
 			"name": "Lyssna",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Locksmith",
 			"name": "Låssmed",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Machine Gun",
 			"name": "Kulspruta",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Mathematics",
 			"name": "Matematik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Mechanical Repair",
 			"name": "Mekaniker",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Medicine",
 			"name": "Läkekonst",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Meteorology",
 			"name": "Meteorologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Natural World",
 			"name": "Naturkunskap",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Navigate",
 			"name": "Navigera",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Occult",
 			"name": "Ockultism",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Operate Heavy Machinery",
 			"name": "Maskinist",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Persuade",
 			"name": "Övertyga",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Pharmacy",
 			"name": "Läkemedel",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Photography",
 			"name": "Fotografi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Physics",
 			"name": "Fysik",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Pilot (Any)",
 			"name": "Pilot/Skepare (Valfri)",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Psychoanalysis",
 			"name": "Psykoanalys",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Psychology",
 			"name": "Psykologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Read Lips",
 			"name": "Läppläsning",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Ride",
 			"name": "Rida",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Rifle/Shotgun",
 			"name": "Gevär/Hagelgevär",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Science (Any)",
@@ -359,52 +359,52 @@
 		{
 			"id": "Sleight of Hand",
 			"name": "Fingerfärdighet",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Spear",
 			"name": "Spjut",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Spot Hidden",
 			"name": "Finna dolda ting",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Stealth",
 			"name": "Smyga",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Submachine Gun",
 			"name": "K-pist",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Survival (Any)",
 			"name": "Överlevnad (Valfri)",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Swim",
 			"name": "Simma",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Sword",
 			"name": "Svärd",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Throw",
 			"name": "Kasta",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Track",
 			"name": "Spåra",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Track (Any)",
@@ -414,12 +414,12 @@
 		{
 			"id": "Whip",
 			"name": "Piska",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		},
 		{
 			"id": "Zoology",
 			"name": "Zoologi",
-			"description": "<p>Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</p>"
+			"description": ""
 		}
 	]
 }

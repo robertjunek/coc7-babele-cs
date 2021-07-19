@@ -3,8 +3,8 @@ Hooks.once('init', () => {
 	if(typeof Babele !== 'undefined') {
 
 		Babele.get().register({
-			module: 'coc7-babele-sv',
-			lang: 'sv',
+			module: 'coc7-babele-cs',
+			lang: 'cs',
 			dir: 'compendium'
 		});
 		
