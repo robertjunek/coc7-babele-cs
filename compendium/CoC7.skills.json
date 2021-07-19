@@ -48,22 +48,22 @@
 		},
 		{
 			"id": "Axe",
-			"name": "Yxa",
+			"name": "Sekera",
 			"description": ""
 		},
 		{
 			"id": "Biology",
-			"name": "Biologi",
+			"name": "Biologie",
 			"description": ""
 		},
 		{
 			"id": "Botany",
-			"name": "Botanik",
+			"name": "Botanika",
 			"description": ""
 		},
 		{
 			"id": "Bow",
-			"name": "Pilbåge",
+			"name": "Luk",
 			"description": ""
 		},
 		{
@@ -88,337 +88,337 @@
 		},
 		{
 			"id": "Climb",
-			"name": "Klättra",
+			"name": "Šplh",
 			"description": ""
 		},
 		{
 			"id": "Computer Use",
-			"name": "Datoranvändning",
+			"name": "Ovládání počítačů",
 			"description": ""
 		},
 		{
 			"id": "Credit Rating",
-			"name": Zámožnost",
+			"name": "Zámožnost",
 			"description": ""
 		},
 		{
 			"id": "Cryptography",
-			"name": "Kryptografi",
+			"name": "Kryptografie",
 			"description": ""
 		},
 		{
 			"id": "Cthulhu Mythos",
-			"name": "Cthulhumyten",
+			"name": "Mýtos Cthulhu",
 			"description": ""
 		},
 		{
 			"id": "Demolitions",
-			"name": "Sprängteknik",
+			"name": "Demolice",
 			"description": ""
 		},
 		{
 			"id": "Disguise",
-			"name": "Förklädnad",
+			"name": "Přestrojování",
 			"description": ""
 		},
 		{
 			"id": "Diving",
-			"name": "Dyka",
+			"name": "Potápění",
 			"description": ""
 		},
 		{
 			"id": "Dodge",
-			"name": "Ducka",
+			"name": "Uhýbaní",
 			"description": ""
 		},
 		{
 			"id": "Drive Auto",
-			"name": "Chaufför (Bil)",
+			"name": "Řízení (auto)",
 			"description": ""
 		},
 		{
 			"id": "Electrical Repair",
-			"name": "Elektriker",
+			"name": "Elektrické opravy",
 			"description": ""
 		},
 		{
 			"id": "Electronics",
-			"name": "Elektronik",
+			"name": "Elektronika",
 			"description": ""
 		},
 		{
 			"id": "Fast Talk",
-			"name": "Bluffa",
+			"name": "Výřečnost",
 			"description": ""
 		},
 		{
 			"id": "Fine Art",
-			"name": "Måla",
+			"name": "Malba",
 			"description": ""
 		},
 		{
 			"id": "First Aid",
-			"name": "Första hjälpen",
+			"name": "První pomoc",
 			"description": ""
 		},
 		{
 			"id": "Flail",
-			"name": "Slaga",
+			"name": "Cep",
 			"description": ""
 		},
 		{
 			"id": "Flamethrower",
-			"name": "Eldkastare",
+			"name": "Plamenomet",
 			"description": ""
 		},
 		{
 			"id": "Forensics",
-			"name": "Kriminalteknik",
+			"name": "Forenzní vědy",
 			"description": ""
 		},
 		{
 			"id": "Forgery",
-			"name": "Förfalskning",
+			"name": "Padělání",
 			"description": ""
 		},
 		{
 			"id": "Garrote",
-			"name": "Garott",
+			"name": "Garotta",
 			"description": ""
 		},
 		{
 			"id": "Geology",
-			"name": "Geologi",
+			"name": "Geologie",
 			"description": ""
 		},
 		{
 			"id": "Handgun",
-			"name": "Pistol",
+			"name": "Pistole",
 			"description": ""
 		},
 		{
 			"id": "Heavy Weapons",
-			"name": "Tyngre handeldvapen",
+			"name": "Těžké zbraně",
 			"description": ""
 		},
 		{
 			"id": "History",
-			"name": "Historia",
+			"name": "Historie",
 			"description": ""
 		},
 		{
 			"id": "Hypnosis",
-			"name": "Hypnos",
+			"name": "Hypnóza",
 			"description": ""
 		},
 		{
 			"id": "Intimidate",
-			"name": "Hota",
+			"name": "Zastrašování",
 			"description": ""
 		},
 		{
 			"id": "Jump",
-			"name": "Hoppa",
+			"name": "Skákání",
 			"description": ""
 		},
 		{
 			"id": "Language (Any)",
-			"name": "Språk (Valfri)",
+			"name": "Jazyk (jakýkoliv)",
 			"description": ""
 		},
 		{
 			"id": "Language (Other)",
-			"name": "Språk (Annat)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
+			"name": "Jazyk (další)",
+			"description": ""
 		},
 		{
 			"id": "Language (Own)",
-			"name": "Språk (Eget)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
+			"name": "Jazyk (vlastní)",
+			"description": ""
 		},
 		{
 			"id": "Law",
-			"name": "Juridik",
+			"name": "Právní znalosti",
 			"description": ""
 		},
 		{
 			"id": "Library Use",
-			"name": "Bibliotekskunskap",
+			"name": "Knihovnictví",
 			"description": ""
 		},
 		{
 			"id": "Listen",
-			"name": "Lyssna",
+			"name": "Naslouchání",
 			"description": ""
 		},
 		{
 			"id": "Locksmith",
-			"name": "Låssmed",
+			"name": "Zájmečnictví",
 			"description": ""
 		},
 		{
 			"id": "Machine Gun",
-			"name": "Kulspruta",
+			"name": "Kulomet",
 			"description": ""
 		},
 		{
 			"id": "Mathematics",
-			"name": "Matematik",
+			"name": "Matematika",
 			"description": ""
 		},
 		{
 			"id": "Mechanical Repair",
-			"name": "Mekaniker",
+			"name": "Mech. opravy",
 			"description": ""
 		},
 		{
 			"id": "Medicine",
-			"name": "Läkekonst",
+			"name": "Lékařství",
 			"description": ""
 		},
 		{
 			"id": "Meteorology",
-			"name": "Meteorologi",
+			"name": "Meteorologie",
 			"description": ""
 		},
 		{
 			"id": "Natural World",
-			"name": "Naturkunskap",
+			"name": "Přírodopis",
 			"description": ""
 		},
 		{
 			"id": "Navigate",
-			"name": "Navigera",
+			"name": "Navigace",
 			"description": ""
 		},
 		{
 			"id": "Occult",
-			"name": "Ockultism",
+			"name": "Ockultismus",
 			"description": ""
 		},
 		{
 			"id": "Operate Heavy Machinery",
-			"name": "Maskinist",
+			"name": "Ovládání těžké techniky",
 			"description": ""
 		},
 		{
 			"id": "Persuade",
-			"name": "Övertyga",
+			"name": "Přesvědčování",
 			"description": ""
 		},
 		{
 			"id": "Pharmacy",
-			"name": "Läkemedel",
+			"name": "Farmacie",
 			"description": ""
 		},
 		{
 			"id": "Photography",
-			"name": "Fotografi",
+			"name": "Fotografie",
 			"description": ""
 		},
 		{
 			"id": "Physics",
-			"name": "Fysik",
+			"name": "Fyzika",
 			"description": ""
 		},
 		{
 			"id": "Pilot (Any)",
-			"name": "Pilot/Skepare (Valfri)",
+			"name": "Pilotování (jakékoliv)",
 			"description": ""
 		},
 		{
 			"id": "Psychoanalysis",
-			"name": "Psykoanalys",
+			"name": "Psychoanalýza",
 			"description": ""
 		},
 		{
 			"id": "Psychology",
-			"name": "Psykologi",
+			"name": "Psychologie",
 			"description": ""
 		},
 		{
 			"id": "Read Lips",
-			"name": "Läppläsning",
+			"name": "Odezírání",
 			"description": ""
 		},
 		{
 			"id": "Ride",
-			"name": "Rida",
+			"name": "Jezdectví",
 			"description": ""
 		},
 		{
 			"id": "Rifle/Shotgun",
-			"name": "Gevär/Hagelgevär",
+			"name": "Puška/brokovnice",
 			"description": ""
 		},
 		{
 			"id": "Science (Any)",
-			"name": "Vetenskap (Valfri)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Se kapitel 4 i V&auml;ktarens- eller Utredarens handbok</span></p>"
+			"name": "Věda (jakákoliv)",
+			"description": ""
 		},
 		{
 			"id": "Sleight of Hand",
-			"name": "Fingerfärdighet",
+			"name": "Hbité prsty",
 			"description": ""
 		},
 		{
 			"id": "Spear",
-			"name": "Spjut",
+			"name": "Kopí",
 			"description": ""
 		},
 		{
 			"id": "Spot Hidden",
-			"name": "Finna dolda ting",
+			"name": "Bystré oko",
 			"description": ""
 		},
 		{
 			"id": "Stealth",
-			"name": "Smyga",
+			"name": "Nenápadnost",
 			"description": ""
 		},
 		{
 			"id": "Submachine Gun",
-			"name": "K-pist",
+			"name": "Samopal",
 			"description": ""
 		},
 		{
 			"id": "Survival (Any)",
-			"name": "Överlevnad (Valfri)",
+			"name": "Přežití (jakékoliv)",
 			"description": ""
 		},
 		{
 			"id": "Swim",
-			"name": "Simma",
+			"name": "Plavání",
 			"description": ""
 		},
 		{
 			"id": "Sword",
-			"name": "Svärd",
+			"name": "Meč",
 			"description": ""
 		},
 		{
 			"id": "Throw",
-			"name": "Kasta",
+			"name": "Vrh",
 			"description": ""
 		},
 		{
 			"id": "Track",
-			"name": "Spåra",
+			"name": "Stopování",
 			"description": ""
 		},
 		{
 			"id": "Track (Any)",
-			"name": "Spåra (Valfri)",
+			"name": "Stopování (jakékoliv)",
 			"description": ""
 		},
 		{
 			"id": "Whip",
-			"name": "Piska",
+			"name": "Bič",
 			"description": ""
 		},
 		{
 			"id": "Zoology",
-			"name": "Zoologi",
+			"name": "Zoologie",
 			"description": ""
 		}
 	]
