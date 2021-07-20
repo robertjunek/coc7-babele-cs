@@ -261,7 +261,7 @@
     "CoC7.WeaponDamage": "Zranění",
     "CoC7.Weapon.BlastRadius": "Poloměr výbuchu",
     "CoC7.WeaponMalfunction": "Porucha",
-    "CoC7.WeaponUsesPerRound": "Použití v rámci kola",
+    "CoC7.WeaponUsesPerRound": "Použití/kolo",
     "CoC7.WeaponUsesPerRoundHint": "Útoky během kola (1/3 = útok každé 3 kola)",
     "CoC7.WeaponSheet.RoundsPerUse.Info": "Kolik kol je potřeba, aby byla zbraň připravena střílet",
     "CoC7.WeaponMax": "Max. použití/kolo",
