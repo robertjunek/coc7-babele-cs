@@ -420,6 +420,11 @@
 			"id": "Zoology",
 			"name": "Zoologie",
 			"description": ""
+		},
+		{
+			"id": "Shotgun",
+			"name": "Puška/brokovnice",
+			"description": ""
 		}
 	]
 }
