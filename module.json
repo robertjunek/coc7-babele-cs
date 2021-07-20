@@ -2,7 +2,7 @@
   "name": "coc7-babele-cs",
   "title": "Translation: Czech (Call of Cthulhu 7th edition)",
   "description": "Czech translation of HavlockV's Call of Cthulhu 7th edition (Unofficial) system for Foundry VTT. -  Český překlad Call of Cthulhu 7th edition (Unofficial) systému od HavelocV.",
-  "version": "0.0.3.2",
+  "version": "0.0.3.3",
   "minimumCoreVersion" : "0.8.5",
   "compatibleCoreVersion":"0.8.8",
   "author": "rjcz",
@@ -30,7 +30,6 @@
     }
   ],
   "system": "CoC7",
-  "systemVersion": "0.0.3",
   "url": "https://github.com/robertjunek/",
   "manifest": "https://raw.githubusercontent.com/robertjunek/coc7-babele-cs/main/module.json",
   "download": "https://github.com/robertjunek/coc7-babele-cs/archive/main.zip"
