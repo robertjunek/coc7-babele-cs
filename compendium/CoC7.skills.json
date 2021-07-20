@@ -253,7 +253,7 @@
 		},
 		{
 			"id": "Locksmith",
-			"name": "Zájmečnictví",
+			"name": "Zámečnictví",
 			"description": ""
 		},
 		{
@@ -293,12 +293,12 @@
 		},
 		{
 			"id": "Occult",
-			"name": "Ockultismus",
+			"name": "Okultismus",
 			"description": ""
 		},
 		{
 			"id": "Operate Heavy Machinery",
-			"name": "Ovládání těžké techniky",
+			"name": "Ovl. těž. techniky",
 			"description": ""
 		},
 		{
