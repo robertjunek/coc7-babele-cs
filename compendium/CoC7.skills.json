@@ -130,6 +130,10 @@
 			"id": "Drive Auto",
 			"name": "Řízení (auto)",
 			"description": ""
+		},{
+			"id": "Dodge",
+			"name": "Uhýbání",
+			"description": ""
 		},
 		{
 			"id": "Electrical Repair",
