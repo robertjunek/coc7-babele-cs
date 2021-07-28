@@ -20,13 +20,13 @@
 * At _Configuration/Setup_ change language to Čeština.
 ----
 * Nainstalujte/aktualizujte _Call of Cthulhu 7th edition (Unofficial)_ od HavlockV v Game Systems ve Foundry.
-[Modul-URL](https://foundryvtt.com/packages/CoC7/)
+[URL modulu](https://foundryvtt.com/packages/CoC7/)
 * Nainstalujte/aktualizujte _Babele_ v Add-on Modules ve Foundry.
-[Modul-URL](https://foundryvtt.com/packages/babele/)
+[URL modulu](https://foundryvtt.com/packages/babele/)
 * Nainstalujte/aktualizujte _Translation: Czech [Core]_ v Add-on Modules ve Foundry.
-[Modul-URL](https://gitlab.com/ptoseklukas/foundryvtt-lang-cs-cz/)
+[URL modulu](https://gitlab.com/ptoseklukas/foundryvtt-lang-cs-cz/)
 * Nainstalujte/aktualizujte _Translation: Czech (Call of Cthulhu 7th edition)_ v Add-on Modules ve Foundry.
-[Modul-URL](https://github.com/robertjunek/coc7-babele-cs/)
+[URL modulu](https://github.com/robertjunek/coc7-babele-cs/)
 * Aktivujte Babele a oba překladové moduly ve svém herním světe v nabídce _Configuration/Manage Modules_.
 * V nabídce _Configuration/Setup_ (česky Upravit nastavení) změňte jazyk na Čeština.
 
